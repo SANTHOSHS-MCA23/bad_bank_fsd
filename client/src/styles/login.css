@@ -1,0 +1,29 @@
+form{
+  margin-top: 50px;
+  text-align: center;
+}
+input{
+  display: block;
+  width: 350px;
+  height: 40px;
+  margin: 20px;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  background: transparent;
+  color:rgb(88, 85, 85)
+}
+button{
+  width: 350px;
+  height: 40px;
+  font-size: 20px;
+  background-color: brown;
+  border: none;
+  color:#fff;
+  border-radius:50%;
+}
+::placeholder{
+  color: #fff;
+}
+
